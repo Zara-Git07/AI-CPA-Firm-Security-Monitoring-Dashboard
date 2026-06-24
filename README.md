@@ -109,3 +109,6 @@ User Risk Scoring
 Author
 
 Cybersecurity and AI Automation Project focused on improving security monitoring and compliance processes for CPA firms.
+<img width="1805" height="717" alt="image" src="https://github.com/user-attachments/assets/3c2a55ff-4244-4377-a91f-e482c1d56be0" />
+<img width="1786" height="747" alt="image" src="https://github.com/user-attachments/assets/746ca6e4-930e-4b0d-b6f1-863f45b2dded" />
+
